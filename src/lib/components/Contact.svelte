@@ -16,7 +16,7 @@
 		</p>
 		<div class="flex flex-row justify-start sm:justify-center items-center w-full gap-5 sm:gap-10">
 			<a
-				href="mailto:chakibouzane2021@gmail.com"
+				href="mailto:mcouzane@gmail.com"
 				rel="noopener noreferrer"
 				target="_blank"
 				aria-label="email"
