@@ -33,7 +33,7 @@
 			></a
 		>
 		<a
-			href="https://github.com/ch33kaboo"
+			href="https://github.com/chakibouzane"
 			rel="noopener noreferrer"
 			class="hover:text-white text-gray-400 transition"
 			target="_blank"

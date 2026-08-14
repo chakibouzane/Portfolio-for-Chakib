@@ -68,7 +68,7 @@
 				></a
 			>
 			<a
-				href="https://github.com/ch33kaboo"
+				href="https://github.com/chakibouzane"
 				rel="noopener noreferrer"
 				target="_blank"
 				aria-label="github"

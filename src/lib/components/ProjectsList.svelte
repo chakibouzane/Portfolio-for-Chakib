@@ -8,7 +8,7 @@
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
 	techStack="SvelteKit, Svelte, Supabase, Tailwind CSS, DaisyUI, Sanity CMS, GROQ Query Language, Zod, SvelteKit Superforms (server & client side form validation)."
-	codeURL="https://github.com/ch33kaboo/jv"
+	codeURL="https://github.com/chakibouzane/Jeunesse-Volontaire"
 	previewURL="https://jeunessevolontairesba.dz"
 />
 
@@ -17,7 +17,7 @@
 	description={$_('projectsSection.projectsContent.project16.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project16.keyFeatures')}
 	techStack="Svelte 5, SvelteKit, Tailwind CSS, Supabase."
-	codeURL="https://github.com/ch33kaboo/tictacfun"
+	codeURL="https://github.com/chakibouzane/tictacfun"
 	previewURL="https://tictacfun.live"
 />
 
@@ -26,7 +26,7 @@
 	description={$_('projectsSection.projectsContent.project1.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project1.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI, Github as a CMS, Fetch API."
-	codeURL="https://github.com/ch33kaboo/alphabit-website"
+	codeURL="https://github.com/chakibouzane/alphabit-website"
 	previewURL="https://alphabit.netlify.app"
 />
 
@@ -60,7 +60,7 @@
 	description={$_('projectsSection.projectsContent.project5.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project5.keyFeatures')}
 	techStack="Next.js, React, Sanity, GROQ Query Language, Tailwind CSS, DaisyUI."
-	codeURL="https://github.com/ch33kaboo/sodea"
+	codeURL="https://github.com/chakibouzane/sodea"
 	previewURL=""
 />
 
@@ -69,7 +69,7 @@
 	description={$_('projectsSection.projectsContent.project6.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project6.keyFeatures')}
 	techStack=""
-	codeURL="https://github.com/ch33kaboo/AlphaBit-coding-challenge-4.0-challenges"
+	codeURL="https://github.com/chakibouzane/AlphaBit-coding-challenge-4.0-challenges"
 	previewURL=""
 /> -->
 
@@ -86,7 +86,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project9.projectTitle')}
 	description={$_('projectsSection.projectsContent.project9.description')}
 	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, ESLint."
-	codeURL="https://github.com/ch33kaboo/svelteKit-starter"
+	codeURL="https://github.com/chakibouzane/svelteKit-starter"
 	previewURL=""
 /> -->
 
@@ -95,7 +95,7 @@
 	description={$_('projectsSection.projectsContent.project10.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project10.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
-	codeURL="https://github.com/ch33kaboo/Chronos"
+	codeURL="https://github.com/chakibouzane/Chronos"
 	previewURL="https://youtu.be/KnjyJFwtyvY?si=G3U8SZ4dbK0K5TEj"
 />
 
@@ -104,7 +104,7 @@
 	description={$_('projectsSection.projectsContent.project11.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project11.keyFeatures')}
 	techStack="Vanilla HTML, Tailwind CSS, DaisyUI."
-	codeURL="https://github.com/ch33kaboo/TravelTip"
+	codeURL="https://github.com/chakibouzane/TravelTip"
 	previewURL="https://traveltip.netlify.app/public/index.html"
 /> -->
 
@@ -112,7 +112,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project12.projectTitle')}
 	description={$_('projectsSection.projectsContent.project12.description')}
 	techStack="Bash script (Shell Script)."
-	codeURL="https://github.com/ch33kaboo/no-push-main"
+	codeURL="https://github.com/chakibouzane/no-push-main"
 	previewURL=""
 /> -->
 
@@ -120,7 +120,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project13.projectTitle')}
 	description={$_('projectsSection.projectsContent.project13.description')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
-	codeURL="https://github.com/ch33kaboo/cool-chat-box"
+	codeURL="https://github.com/chakibouzane/cool-chat-box"
 	previewURL="https://cool-chat-box.netlify.app"
 /> -->
 
@@ -129,7 +129,7 @@
 	description={$_('projectsSection.projectsContent.project14.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project14.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
-	codeURL="https://github.com/ch33kaboo/svelte-todo-app"
+	codeURL="https://github.com/chakibouzane/svelte-todo-app"
 	previewURL="https://todo-svelte-app.netlify.app"
 /> -->
 

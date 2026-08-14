@@ -15,7 +15,7 @@
 	},
 	"aboutSection": {
 		"title": "Über mich",
-		"intro": "Hallo, ich bin Chakib Ouzane (auch bekannt als <span class='italic font-sans'>ch33kaboo</span>), ein 23-jähriger Absolvent der Informatik. Als Full-Stack-Webentwickler habe ich eine Leidenschaft für den Aufbau effizienter, skalierbarer Backendsysteme und intuitiver, reaktionsschneller Frontend-Erfahrungen (en: responsive), um nahtlose Full-Stack-Lösungen zu schaffen.",
+		"intro": "Hallo, ich bin Chakib Ouzane, ein 23-jähriger Absolvent der Informatik. Als Full-Stack-Webentwickler habe ich eine Leidenschaft für den Aufbau effizienter, skalierbarer Backendsysteme und intuitiver, reaktionsschneller Frontend-Erfahrungen (en: responsive), um nahtlose Full-Stack-Lösungen zu schaffen.",
 		"portfolio": "Mein Portfolio zeigt eine Reihe von Projekten, die meine Fähigkeiten und meine Begeisterung für die Entwicklung widerspiegeln.",
 		"goals": "Ich erkunde ständig neue Technologien und arbeite an Projekten, die mich herausfordern, zu wachsen. Mein Ziel ist es, zu innovativen Projekten beizutragen, die die Grenzen der Webentwicklung erweitern.",
 		"additionalInterests": "Neben der Webentwicklung interessiere ich mich auch für Netzwerke und IoT, und ich hatte die Gelegenheit, diese Technologien in Universitätslaboren zu testen.",
@@ -43,7 +43,7 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "Ich habe eine Website für die AlphaBit-Club-Community entwickelt, auf der Besucher die neuesten Veranstaltungen, Partner, den Blog, die Podcasts und weitere Informationen des Clubs einsehen können.",
-				"keyFeatures": "Der Inhalt der Website ist dynamisch, da er im Markdown-Format in <a href='https://github.com/ch33kaboo/alphabit-CMS-test' target='_blank' class='link'>diesem GitHub Repository<a/> geschrieben ist. Jedes Mal, wenn ein Besucher auf eine Seite zugreift, ruft die Website den entsprechenden Inhalt aus dem Repository ab, konvertiert die Markdown-Dateien in HTML und rendert sie für den Client. Darüber hinaus ist die Website responsiv und bietet einen Dark Mode."
+				"keyFeatures": "Der Inhalt der Website ist dynamisch, da er im Markdown-Format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>diesem GitHub Repository<a/> geschrieben ist. Jedes Mal, wenn ein Besucher auf eine Seite zugreift, ruft die Website den entsprechenden Inhalt aus dem Repository ab, konvertiert die Markdown-Dateien in HTML und rendert sie für den Client. Darüber hinaus ist die Website responsiv und bietet einen Dark Mode."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
@@ -82,7 +82,7 @@
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",
-				"description": "Ein anpassbares SvelteKit Starter-Template, das für die moderne Webentwicklung konzipiert wurde und SvelteKit + Svelte mit TypeScript, Tailwind CSS, daisyUI, Vite, svelte-i18n umfasst. Enthält vorab konfigurierte ESLint, Prettier, Dark-Mode-Funktionalität, benutzerdefinierte Farbpaletten und IDE-Einrichtungsoptionen für eine einfache Projektinitialisierung. Ideal für Entwickler, die eine sofort einsatzbereite Umgebung suchen. Außerdem habe ich ein einfaches Svelte TypeScript Starter erstellt, das <a class='link' href='https://github.com/ch33kaboo/svelte-ts-starter' target='_blank'>hier</a> zu finden ist.",
+				"description": "Ein anpassbares SvelteKit Starter-Template, das für die moderne Webentwicklung konzipiert wurde und SvelteKit + Svelte mit TypeScript, Tailwind CSS, daisyUI, Vite, svelte-i18n umfasst. Enthält vorab konfigurierte ESLint, Prettier, Dark-Mode-Funktionalität, benutzerdefinierte Farbpaletten und IDE-Einrichtungsoptionen für eine einfache Projektinitialisierung. Ideal für Entwickler, die eine sofort einsatzbereite Umgebung suchen. Außerdem habe ich ein einfaches Svelte TypeScript Starter erstellt, das <a class='link' href='https://github.com/chakibouzane/svelte-ts-starter' target='_blank'>hier</a> zu finden ist.",
 				"keyFeatures": ""
 			},
 			"project10": {

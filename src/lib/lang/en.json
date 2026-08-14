@@ -15,7 +15,7 @@
 	},
 	"aboutSection": {
 		"title": "About Me",
-		"intro": "Hi, I'm Chakib Ouzane (aka <span class='italic font-sans'>ch33kaboo</span>), a 23 year-old Computer Science graduate. As a full-stack web developer, I have a passion for building efficient, scalable backend systems alongside their intuitive, responsive frontend experiences to create seamless full-stack solutions.",
+		"intro": "Hi, I'm Chakib Ouzane, a 23 year-old Computer Science graduate. As a full-stack web developer, I have a passion for building efficient, scalable backend systems alongside their intuitive, responsive frontend experiences to create seamless full-stack solutions.",
 		"portfolio": "My portfolio showcases a range of projects that reflect my skills and enthusiasm for development.",
 		"goals": "I'm continuously exploring new technologies and working on projects that challenge me to grow. My goal is to contribute to innovative projects that push the boundaries of web development.",
 		"additionalInterests": "Alongside web development, I’m also interested in networking and IoT, and I’ve had the opportunity to experiment with these technologies in university labs.",
@@ -43,7 +43,7 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "I developed a website for the AlphaBit Club community, where visitors can explore the club's recent events, partners, blog, podcasts, and other additional information.",
-				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/ch33kaboo/alphabit-CMS-test' target='_blank' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
+				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
@@ -82,7 +82,7 @@
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",
-				"description": "I made this customizable SvelteKit starter template tailored for modern web development, featuring SvelteKit + Svelte with TypeScript, Tailwind CSS, daisyUI, Vite, svelte-i18n. Includes pre-configured ESLint, Prettier, dark mode functionality, custom color palettes, and IDE setup for easy project initialization. Ideal for developers looking for a ready-to-use environment. Additionally, I have created a plain Svelte TypeScript starter, which can be found <a class='link' href='https://github.com/ch33kaboo/svelte-ts-starter' target='_blank'>here</a>.",
+				"description": "I made this customizable SvelteKit starter template tailored for modern web development, featuring SvelteKit + Svelte with TypeScript, Tailwind CSS, daisyUI, Vite, svelte-i18n. Includes pre-configured ESLint, Prettier, dark mode functionality, custom color palettes, and IDE setup for easy project initialization. Ideal for developers looking for a ready-to-use environment. Additionally, I have created a plain Svelte TypeScript starter, which can be found <a class='link' href='https://github.com/chakibouzane/svelte-ts-starter' target='_blank'>here</a>.",
 				"keyFeatures": ""
 			},
 			"project10": {
