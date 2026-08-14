@@ -12,7 +12,7 @@
 	</h2>
 	<div class="flex flex-row justify-center gap-4 items-center">
 		<a
-			href="https://www.linkedin.com/in/chakib-ouzane/"
+			href="https://www.linkedin.com/in/chakibouzane/"
 			rel="noopener noreferrer"
 			class="hover:text-white text-gray-400 transition"
 			target="_blank"

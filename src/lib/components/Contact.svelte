@@ -41,7 +41,7 @@
 				></a
 			>
 			<a
-				href="https://www.linkedin.com/in/chakib-ouzane/"
+				href="https://www.linkedin.com/in/chakibouzane/"
 				rel="noopener noreferrer"
 				target="_blank"
 				aria-label="linkedin"
