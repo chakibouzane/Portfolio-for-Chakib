@@ -18,7 +18,6 @@
 
 	function handleLocaleChange(selectedLanguage: 'en' | 'fr' | 'de' = 'en') {
 		$locale = selectedLanguage;
-		localStorage.setItem('locale', selectedLanguage);
 	}
 </script>
 
