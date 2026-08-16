@@ -15,9 +15,9 @@
 	},
 	"aboutSection": {
 		"title": "À propos de moi",
-		"intro": "Bonjour, je suis Chakib Ouzane, diplômé en informatique de 23 ans. En tant que développeur web full-stack, je suis passionné par la création de systèmes backend efficaces et évolutifs, ainsi que par des expériences frontend intuitives et responsive pour créer des solutions full-stack sans faille.",
-		"portfolio": "Mon portfolio présente une gamme de projets qui reflètent mes compétences et mon enthousiasme pour le développement.",
-		"goals": "Je continue d'explorer de nouvelles technologies et de travailler sur des projets qui me poussent à évoluer. Mon objectif est de contribuer à des projets innovants qui repoussent les limites du développement web.",
+		"intro": "Bonjour, je suis Chakib Ouzane, diplômé en informatique, titulaire d'un Master et d'un Diplôme d'Ingénieur d'État en Ingénierie des Systèmes Informatiques de l'ESI SBA, Algérie.",
+		"portfolio": "Je suis ingénieur logiciel, passionné par la conception de systèmes backend efficaces, associés à des interfaces frontend intuitives, pour créer des solutions full-stack cohérentes.",
+		"goals": "Lors de mon stage de recherche de fin d'études au laboratoire CESI LINEACT à Aix-en-Provence, en France, je me suis initié à la recherche, en travaillant sur la sécurité des protocoles réseau IoT. Je me suis concentré sur la sécurisation des réseaux RPL et j'ai proposé un cadre basé sur le Federated Learning pour la détection d'attaques de routage dans les environnements IoT reposant sur RPL. Ce travail m'a mené à rédiger des articles de recherche, et je me plonge aujourd'hui davantage dans le Machine Learning et la Cybersécurité, avec un intérêt grandissant pour la recherche.",
 		"additionalInterests": "En plus du développement web, je m'intéresse également aux réseaux et à l'IoT, et j'ai eu l'occasion de tester ces technologies dans des laboratoires universitaires.",
 		"CV": "CV"
 	},

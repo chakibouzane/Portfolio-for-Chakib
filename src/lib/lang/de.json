@@ -15,9 +15,9 @@
 	},
 	"aboutSection": {
 		"title": "Über mich",
-		"intro": "Hallo, ich bin Chakib Ouzane, ein 23-jähriger Absolvent der Informatik. Als Full-Stack-Webentwickler habe ich eine Leidenschaft für den Aufbau effizienter, skalierbarer Backendsysteme und intuitiver, reaktionsschneller Frontend-Erfahrungen (en: responsive), um nahtlose Full-Stack-Lösungen zu schaffen.",
-		"portfolio": "Mein Portfolio zeigt eine Reihe von Projekten, die meine Fähigkeiten und meine Begeisterung für die Entwicklung widerspiegeln.",
-		"goals": "Ich erkunde ständig neue Technologien und arbeite an Projekten, die mich herausfordern, zu wachsen. Mein Ziel ist es, zu innovativen Projekten beizutragen, die die Grenzen der Webentwicklung erweitern.",
+		"intro": "Hallo, ich bin Chakib Ouzane, Informatik-Absolvent mit einem Master-Abschluss und einem Staatlichen Ingenieurdiplom in Computersystemtechnik von der ESI SBA, Algerien.",
+		"portfolio": "Ich bin Software-Ingenieur mit einer Leidenschaft für effiziente Backend-Systeme in Kombination mit intuitiven Frontend, um nahtlose Full-Stack-Lösungen zu schaffen.",
+		"goals": "Während meines Abschlusspraktikums im Bereich Forschung am CESI LINEACT Research Lab in Aix-en-Provence, Frankreich, kam ich erstmals mit Forschung in Berührung und arbeitete an der Sicherheit von IoT. Ich beschäftigte mich mit der Absicherung von RPL-Netzwerken und schlug ein auf Federated Learning basierendes Framework zur Erkennung von Routing-Angriffen in RPL. Diese Arbeit führte zur Autorenschaft an Forschungsarbeiten, und ich vertiefe mich derzeit weiter in Machine Learning und Cybersicherheit, mit wachsendem Interesse an einer Forschungslaufbahn.",
 		"additionalInterests": "Neben der Webentwicklung interessiere ich mich auch für Netzwerke und IoT, und ich hatte die Gelegenheit, diese Technologien in Universitätslaboren zu testen.",
 		"CV": "Lebenslauf"
 	},

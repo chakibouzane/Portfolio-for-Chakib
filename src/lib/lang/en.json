@@ -15,9 +15,9 @@
 	},
 	"aboutSection": {
 		"title": "About Me",
-		"intro": "Hi, I'm Chakib Ouzane, a 23 year-old Computer Science graduate. As a full-stack web developer, I have a passion for building efficient, scalable backend systems alongside their intuitive, responsive frontend experiences to create seamless full-stack solutions.",
-		"portfolio": "My portfolio showcases a range of projects that reflect my skills and enthusiasm for development.",
-		"goals": "I'm continuously exploring new technologies and working on projects that challenge me to grow. My goal is to contribute to innovative projects that push the boundaries of web development.",
+		"intro": "Hi, I'm Chakib Ouzane, a Computer Science graduate holding a Master's degree and a State Engineer Degree in Computer Systems Engineering from ESI SBA, Algeria.",
+		"portfolio": "I'm a software engineer with a passion for building efficient, scalable backend systems alongside intuitive frontend experiences to create seamless full-stack solutions.",
+		"goals": "During my final-year research internship at CESI LINEACT Research Lab in Aix-en-Provence, France, I got into research, working on Security in IoT Network Protocols. I focused on securing RPL networks and proposed a Federated Learning-based framework for detecting routing attacks in RPL-based IoT environments. This work led me to author research papers, and I'm now diving deeper into Machine Learning and Cybersecurity, with a growing interest in pursuing research.",
 		"additionalInterests": "Alongside web development, I’m also interested in networking and IoT, and I’ve had the opportunity to experiment with these technologies in university labs.",
 		"CV": "Resume"
 	},
