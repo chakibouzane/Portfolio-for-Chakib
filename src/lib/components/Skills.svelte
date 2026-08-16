@@ -14,26 +14,41 @@
 		<div class="flex flex-col gap-3 min-w-40">
 			<h6 class="font-semibold text-lg">{$_('skillsSection.languages')}</h6>
 			<ul class="list-disc list-inside">
-				<li>JavaScript</li>
-				<li>TypeScript</li>
-				<li>python</li>
+				<li>JavaScript / TypeScript</li>
+				<li>Python</li>
+				<li>Java</li>
+				<li>R</li>
 				<li>SQL</li>
 			</ul>
 		</div>
+
 		<div class="flex flex-col gap-3 min-w-40">
-			<h6 class="font-semibold text-lg">Frontend</h6>
+			<h6 class="font-semibold text-lg">AI & ML</h6>
 			<ul class="list-disc list-inside">
-				<li>Svelte & SvelteKit</li>
-				<li>React</li>
-				<li>Tailwind CSS</li>
+				<li>TensorFlow</li>
+				<li>PyTorch</li>
+				<li>Scikit-learn</li>
+				<li>Pandas</li>
+				<li>NumPy</li>
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
-			<h6 class="font-semibold text-lg">Backend</h6>
+			<h6 class="font-semibold text-lg">{$_('skillsSection.cybersecurity')}</h6>
 			<ul class="list-disc list-inside">
-				<li>Node.js</li>
-				<li>Express.js</li>
-				<li>NestJS</li>
+				<li>IoT & Network Security</li>
+				<li>RPL Protocol & Threat Modeling</li>
+				<li>Intrusion & Anomaly Detection</li>
+				<li>Cryptography Algorithms</li>
+				<li>Blockchain</li>
+			</ul>
+		</div>
+		<div class="flex flex-col gap-3 min-w-40">
+			<h6 class="font-semibold text-lg">{$_('skillsSection.webDev')}</h6>
+			<ul class="list-disc list-inside">
+				<li>Svelte & SvelteKit</li>
+				<li>React</li>
+				<li>Node.js & Express.js</li>
+				<li>REST APIs & GraphQL</li>
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
@@ -50,8 +65,8 @@
 			<ul class="list-disc list-inside">
 				<li>Git & GitHub</li>
 				<li>Docker</li>
-				<li>Vercel & Netlify</li>
-				<li>Linux & Scripting</li>
+				<li>Contiki-NG/Cooja & GNS3</li>
+				<li>LaTeX</li>
 			</ul>
 		</div>
 		<!-- <div class="flex flex-col gap-3 min-w-40">

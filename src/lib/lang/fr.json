@@ -28,7 +28,9 @@
 		"toolsOther": "Outils & Autre",
 		"itSystems": "Systèmes informatiques",
 		"networking": "Réseau",
-		"arduino": "Programmation de microcontrôleurs et Arduino"
+		"arduino": "Programmation de microcontrôleurs et Arduino",
+		"cybersecurity": "Cybersécurité",
+		"webDev": "Développement Web"
 	},
 	"projectsSection": {
 		"title": "Projets et contributions",

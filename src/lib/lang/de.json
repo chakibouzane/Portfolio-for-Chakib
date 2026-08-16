@@ -28,7 +28,9 @@
 		"toolsOther": "Werkzeuge & Sonstiges",
 		"itSystems": "IT-Systeme",
 		"networking": "Netzwerke",
-		"arduino": "Mikrocontroller- und Arduino-Programmierung"
+		"arduino": "Mikrocontroller- und Arduino-Programmierung",
+		"cybersecurity": "Cybersicherheit",
+		"webDev": "Web-Entwicklung"
 	},
 	"projectsSection": {
 		"title": "Projekte und Beiträge",
