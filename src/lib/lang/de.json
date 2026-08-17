@@ -45,12 +45,12 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "Ich habe eine Website für die AlphaBit-Club-Community entwickelt, auf der Besucher die neuesten Veranstaltungen, Partner, den Blog, die Podcasts und weitere Informationen des Clubs einsehen können.",
-				"keyFeatures": "Der Inhalt der Website ist dynamisch, da er im Markdown-Format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>diesem GitHub Repository<a/> geschrieben ist. Jedes Mal, wenn ein Besucher auf eine Seite zugreift, ruft die Website den entsprechenden Inhalt aus dem Repository ab, konvertiert die Markdown-Dateien in HTML und rendert sie für den Client. Darüber hinaus ist die Website responsiv und bietet einen Dark Mode."
+				"keyFeatures": "Der Inhalt der Website ist dynamisch, da er im Markdown-Format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>diesem GitHub Repository<a/> geschrieben ist. Jedes Mal, wenn ein Besucher auf eine Seite zugreift, ruft die Website den entsprechenden Inhalt aus dem Repository ab, konvertiert die Markdown-Dateien in HTML und rendert sie für den Client."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
-				"description": "Eine Webanwendung, die den gesamten Prozess der Bewerbung für ein Startup oder ein Patent für ein Abschlussprojekt digitalisieren soll. Dies war mein interdisziplinäres Universitätsprojekt im 3. Jahr meines Informatikstudiums. Innovium war ein Gruppenprojekt, an dem ich und drei meiner Freunde beteiligt waren. Weitere Informationen über das Projekt finden Sie <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>hier</a>.",
-				"keyFeatures": "Ermöglichen Sie Studierenden, Projektvorschläge einzureichen. Geben Sie dem wissenschaftlichen Ausschuss der Universität die Möglichkeit, Vorschläge zu prüfen und anzunehmen oder abzulehnen. Stellen Sie Projektbetreuern Werkzeuge zur Verfügung, um Aufgaben den Projektmitgliedern zuzuweisen und nachzuverfolgen. Statten Sie den Praktikumsdienst mit der Fähigkeit aus, Projektverteidigungen zu organisieren und zu planen. Ermöglichen Sie dem Praktikumsdienst, den Vorsitzenden, die Mitglieder und die Gäste der Verteidigung zu benennen, neben weiteren Funktionen. Weitere Details finden Sie <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>hier</a>."
+				"description": "Eine Webanwendung, die den gesamten Prozess der Bewerbung für ein Startup oder ein Patent digitalisieren soll. Weitere Informationen über das Projekt finden Sie <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>hier</a>.",
+				"keyFeatures": "Studierende reichen Projektvorschläge ein. Der wissenschaftliche Ausschuss der Universität kann Vorschläge prüfen und annehmen oder ablehnen. Projektbetreuer weisen Aufgaben zu und verfolgen deren Fortschritt. Der Praktikumsdienst organisiert und plant die Projektverteidigungen und benennt den Vorsitzenden, die Mitglieder und die Gäste der Prüfung."
 			},
 			"project3": {
 				"projectTitle": "AlphaBit Website",
@@ -80,7 +80,7 @@
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",
 				"description": "Ich habe eine Website für eine lokale Umweltorganisation namens “Jeunesse Volontaire” entwickelt, mit Svelte für das Frontend und Sanity CMS für die dynamische Inhaltsverwaltung.",
-				"keyFeatures": "Dynamische Inhaltsintegration mit Sanity CMS, Echtzeit-Updates über die Sanity API, Kontinuierliche Bereitstellung auf Netlify, Geschützte Admin-Routen (auth), intuitive Admin-Oberfläche zur Inhaltsverwaltung, Fehlerbenachrichtigung per E-Mail an den Administrator, responsives Design, Zod und SvelteKit Superforms für Formularvalidierung auf Server- und Client-Seite, leicht erweiterbar mit zusätzlichen Funktionen."
+				"keyFeatures": "Dynamische Inhaltsintegration mit Sanity CMS über die Sanity API, Kontinuierliche Bereitstellung auf Netlify, Geschützte Admin-Routen (auth), intuitive Admin-Oberfläche zur Inhaltsverwaltung, Fehlerbenachrichtigung per E-Mail an den Administrator, Zod und SvelteKit Superforms für Formularvalidierung auf Server- und Client-Seite."
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",

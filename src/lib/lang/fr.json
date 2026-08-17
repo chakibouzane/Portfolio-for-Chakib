@@ -45,12 +45,12 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "J'ai développé un site web pour la communauté AlphaBit Club, où les visiteurs peuvent découvrir les événements récents du club, ses partenaires, son blog, ses podcasts et d'autres informations supplémentaires.",
-				"keyFeatures": "Le contenu du site web est dynamique, car il est écrit en format Markdown dans <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>ce GitHub repository<a/>. Chaque fois qu'un visiteur accède à une page, le site récupère le contenu correspondant depuis les fichier markdown, convertit les fichiers Markdown en HTML et les rend pour le client. De plus, le site est responsive et dispose du dark mode."
+				"keyFeatures": "Le contenu du site web est dynamique, car il est écrit en format Markdown dans <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>ce GitHub repository<a/>. Chaque fois qu'un visiteur accède à une page, le site récupère le contenu correspondant depuis les fichier markdown, convertit les fichiers Markdown en HTML et les rend pour le client."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
-				"description": "Une application web conçue pour numériser tout le processus de candidature pour une startup ou un brevet de projet de fin d'études. Il s'agissait de mon projet universitaire multidisciplinaire en 3ᵉ année d'informatique. Innovium était un projet de groupe auquel j'ai participé avec trois de mes amis. Vous pouvez trouver plus d'informations sur le projet <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>ici</a>.",
-				"keyFeatures": "Permettre aux étudiants de soumettre des propositions de projet. Offrir à la commission scientifique de l'université la possibilité d'examiner, d'accepter ou de rejeter les propositions. Fournir aux superviseurs de projet des outils pour assigner et suivre les tâches des membres du projet. Donner au service des stages la possibilité d'organiser et de planifier les soutenances de projet. Permettre au service des stages d'assigner le président du jury, les membres et les invités pour les soutenances, entre autres fonctionnalités. Plus de détails sont disponibles <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>ici</a>."
+				"description": "Une application web pour numériser le processus de candidature pour une startup ou un brevet. Il s'agissait de mon projet universitaire multidisciplinaire en 3ᵉ année d'informatique. Vous pouvez trouver plus d'infos <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>ici</a>.",
+				"keyFeatures": "Les étudiants soumettent des propositions de projet. La commission de l'université peut examiner, accepter ou rejeter les propositions. Les superviseurs assignent et suivent les tâches des membres du projet. Le service des stages organise et planifie les soutenances et assigne le président du jury, les membres et les invités."
 			},
 			"project3": {
 				"projectTitle": "AlphaBit Website",
@@ -80,7 +80,7 @@
 			"project8": {
 				"projectTitle": "Site Web de Jeunesse Volontaire",
 				"description": "J'ai développé un site web pour une organisation environnementale locale nommée “Jeunesse Volontaire”, en utilisant Svelte pour le frontend et Sanity CMS pour la gestion dynamique du contenu.",
-				"keyFeatures": "Intégration de contenu dynamique avec Sanity CMS, mises à jour en temps réel via l'API Sanity, Déploiement continu sur Netlify, Routes administrateur protégées (auth), interface d'administration intuitive pour la gestion de contenu, Notification d'erreur par e-mail à l'administrateur, design responsive, Zod et SvelteKit Superforms pour une validation des formulaires côté serveur et client, facilement extensible avec des fonctionnalités supplémentaires."
+				"keyFeatures": "Intégration de contenu dynamique avec Sanity CMS via l'API Sanity, Déploiement continu sur Netlify, Routes administrateur protégées (auth), interface d'administration intuitive pour la gestion de contenu, Notification d'erreur par e-mail à l'admin, Zod et SvelteKit Superforms pour une validation des formulaires côté serveur et client."
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",

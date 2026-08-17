@@ -7,7 +7,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
-	techStack="SvelteKit, Svelte, Supabase, Tailwind CSS, DaisyUI, Sanity CMS, GROQ Query Language, Zod, SvelteKit Superforms (server & client side form validation)."
+	techStack="SvelteKit, Supabase, Sanity CMS, GROQ Query Language, Zod, SvelteKit Superforms."
 	codeURL="https://github.com/chakibouzane/Jeunesse-Volontaire"
 	previewURL="https://jeunessevolontairesba.dz"
 />

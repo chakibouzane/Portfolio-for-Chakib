@@ -45,12 +45,12 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "I developed a website for the AlphaBit Club community, where visitors can explore the club's recent events, partners, blog, podcasts, and other additional information.",
-				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
+				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/chakibouzane/alphabit-CMS-test' target='_blank' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
-				"description": "A web application designed to digitalize the entire process of applying for a startup or a patent for an end-of-study project. This was my 3rd-year CS multidisciplinary university project. Innovium was a group project involving me and three of my friends. Further information about the project can be found <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>.",
-				"keyFeatures": "Allow students to submit project proposals. Enable the university’s scientific committee to review and accept or reject proposals. Provide project supervisors with tools to assign and track tasks for project members. Equip the internship service with the ability to organize and schedule project defenses. Allow the internship service to assign the jury president, members, and invitees for project defenses, among other features. Further details can be found <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>."
+				"description": "A web app to digitalize the entire process of applying for a startup or a patent. This was my 3rd-year CS multidisciplinary university project. Further infos can be found <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>.",
+				"keyFeatures": "Students submit project proposals. The university committee can review and accept or reject proposals. Supervisors assign and track tasks for project members. Internship service can organize and schedule project defenses and assign the jury president, members, and invitees for project defenses."
 			},
 			"project3": {
 				"projectTitle": "AlphaBit Website",
@@ -80,7 +80,7 @@
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",
 				"description": "I developed a website for a local environmental organization named “Jeunesse Volontaire”, using Svelte for the frontend and Sanity CMS for dynamic content management.",
-				"keyFeatures": "Dynamic content integration with Sanity CMS, real-time updates via Sanity API, Continuous deployment on Netlify, Protected admin routes (auth), intuitive admin interface for managing content, Error notification via email to the admin, responsive design, Zod and SvelteKit Superforms for server and client-side form validation, easy to extend with additional features."
+				"keyFeatures": "Dynamic content integration with Sanity CMS via Sanity API, Continuous deployment on Netlify, Protected admin routes (auth), intuitive admin interface for managing content, Error notification via email to the admin, Zod and SvelteKit Superforms for server and client-side form validation."
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",
