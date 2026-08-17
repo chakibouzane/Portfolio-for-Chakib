@@ -7,7 +7,7 @@
 	class="flex flex-col justify-center gap-5 pt-32 pb-10 sm:py-28 items-start mx-8 sm:mx-64"
 	style="font-family: Arial, Helvetica, sans-serif;"
 >
-	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300/90">
+	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300">
 		{$_('contactSection.title')}
 	</h6>
 	<div class="w-full flex flex-col justify-center items-start gap-2">
@@ -19,9 +19,10 @@
 				href="mailto:mcouzane@gmail.com"
 				rel="noopener noreferrer"
 				target="_blank"
-				aria-label="email"
-				title="email"
-				><button class="btn btn-active btn-ghost no-animation sm:btn-wide hover:scale-105"
+				aria-label="Email"
+				title="Email"
+				><button
+					class="btn btn-active btn-ghost no-animation sm:btn-wide hover:border-white hover:border-opacity-25 hover:shadow-md"
 					><svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="24"
@@ -44,9 +45,10 @@
 				href="https://www.linkedin.com/in/chakibouzane/"
 				rel="noopener noreferrer"
 				target="_blank"
-				aria-label="linkedin"
-				title="linkedin"
-				><button class="btn btn-active btn-ghost no-animation sm:btn-wide hover:scale-105"
+				aria-label="LinkedIn"
+				title="LinkedIn"
+				><button
+					class="btn btn-active btn-ghost no-animation sm:btn-wide hover:border-white hover:border-opacity-25 hover:shadow-md"
 					><svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="24"
@@ -71,9 +73,10 @@
 				href="https://github.com/chakibouzane"
 				rel="noopener noreferrer"
 				target="_blank"
-				aria-label="github"
-				title="github"
-				><button class="btn btn-active btn-ghost no-animation sm:btn-wide hover:scale-105"
+				aria-label="GitHub"
+				title="GitHub"
+				><button
+					class="btn btn-active btn-ghost no-animation sm:btn-wide hover:border-white hover:border-opacity-25 hover:shadow-md"
 					><svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="24"
