@@ -50,19 +50,19 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project4.projectTitle')}
 	description={$_('projectsSection.projectsContent.project4.description')}
-	techStack="Vanilla JS."
+	techStack="JavaScript."
 	codeURL="https://github.com/andrewmcgivery/obsidian-soundscapes/pull/36"
 	previewURL=""
 />
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project5.projectTitle')}
 	description={$_('projectsSection.projectsContent.project5.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project5.keyFeatures')}
 	techStack="Next.js, React, Sanity, GROQ Query Language, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/chakibouzane/sodea"
 	previewURL=""
-/>
+/> -->
 
 <!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project6.projectTitle')}

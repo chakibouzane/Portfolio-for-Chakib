@@ -59,7 +59,7 @@
 			},
 			"project4": {
 				"projectTitle": "Obsidian Soundscapes",
-				"description": "I contributed to an open source project named obsidian-soundscapes, which is an Obsidian plugin that allows users to play music while using Obsidian. The feature I implemented adds playback commands to the music player, enabling users to play or pause the music and navigate to the next or previous track using Obsidian commands.",
+				"description": "I made an open-source contribution to obsidian-soundscapes, a plugin for Obsidian, a Personal Knowledge Management system (PKM), allowing users to play ambient music while using the app. As part of this open-source contribution, I implemented a feature that adds playback commands to the music player, enabling users to play/pause the music and navigate to the next/previous track using Obsidian commands.",
 				"keyFeatures": ""
 			},
 			"project5": {

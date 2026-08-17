@@ -59,7 +59,7 @@
 			},
 			"project4": {
 				"projectTitle": "Obsidian Soundscapes",
-				"description": "Ich habe zu einem open source Projekt namens obsidian-soundscapes beigetragen, einem Obsidian-Plugin, das es dem Benutzer ermöglicht, Musik zu spielen, während er in Obsidian arbeitet. Die Funktion, die ich implementiert habe, fügt dem Musikplayer Wiedergabebefehle hinzu, mit denen die Musik abgespielt oder pausiert und zum nächsten oder vorherigen Titel mit Obsidian-Befehlen gewechselt werden kann.",
+				"description": "Ich habe zu einem open source Projekt namens obsidian-soundscapes beigetragen, einem Obsidian-Plugin, das es dem Benutzer ermöglicht, Musik zu spielen, während er in Obsidian arbeitet. Die Funktion, die ich implementiert habe, fügt dem Musikplayer Wiedergabebefehle hinzu, mit denen die Musik abgespielt/pausiert und zum nächsten oder vorherigen Titel mit Obsidian-Befehlen gewechselt werden kann.",
 				"keyFeatures": ""
 			},
 			"project5": {
