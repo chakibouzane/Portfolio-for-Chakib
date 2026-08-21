@@ -77,7 +77,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project7.projectTitle')}
 	description={$_('projectsSection.projectsContent.project7.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project7.keyFeatures')}
-	techStack="Node.js, Express, MongoDB, Mongoose, JWT, Multer (file upload), Socket.io, Nodemailer, Joi (schema validation)."
+	techStack="Node.js, Express, MongoDB, Mongoose, JWT, Socket.io, Nodemailer, Joi (schema validation)."
 	codeURL="https://github.com/boite-informatique/esi-hub-backend"
 	previewURL=""
 />
@@ -90,14 +90,14 @@
 	previewURL=""
 /> -->
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project10.projectTitle')}
 	description={$_('projectsSection.projectsContent.project10.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project10.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/chakibouzane/Chronos"
 	previewURL="https://youtu.be/KnjyJFwtyvY?si=G3U8SZ4dbK0K5TEj"
-/>
+/> -->
 
 <!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project11.projectTitle')}
